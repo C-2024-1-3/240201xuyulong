@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\13911\\Desktop\\\u5F90\u5B87\u7684\u5927\u4E00\u4E0A\\c\u002B\u002B\\\u5B9E\u9A8C\\experiment1.2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20386261-FC52-4DDA-9531-B522DB4F6A8A}|experiment1.2.vcxproj|C:\\Users\\13911\\Desktop\\\u5F90\u5B87\u7684\u5927\u4E00\u4E0A\\c\u002B\u002B\\\u5B9E\u9A8C\\experiment1.2\\experiment1.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{20386261-FC52-4DDA-9531-B522DB4F6A8A}|experiment1.2.vcxproj|solutionrelative:experiment1.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "experiment1.2.cpp",
+              "DocumentMoniker": "C:\\Users\\13911\\Desktop\\\u5F90\u5B87\u7684\u5927\u4E00\u4E0A\\c\u002B\u002B\\\u5B9E\u9A8C\\experiment1.2\\experiment1.2.cpp",
+              "RelativeDocumentMoniker": "experiment1.2.cpp",
+              "ToolTip": "C:\\Users\\13911\\Desktop\\\u5F90\u5B87\u7684\u5927\u4E00\u4E0A\\c\u002B\u002B\\\u5B9E\u9A8C\\experiment1.2\\experiment1.2.cpp",
+              "RelativeToolTip": "experiment1.2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-08T10:00:13.77Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
